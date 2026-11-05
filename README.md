@@ -1,4 +1,4 @@
-# 💰 API de Controle de Gastos
+# 💰 API de Controle de Despesas
 
 API REST para registrar e analisar gastos pessoais, com autenticação JWT, testes automatizados e deploy com Docker.
 
