@@ -2,7 +2,7 @@
 
 API REST para registrar e analisar gastos pessoais, com autenticação JWT, testes automatizados e deploy com Docker.
 
-🔗 **Demo online:** _(cole aqui o link do deploy)_ · 📖 **Documentação interativa:** `/docs`
+📖 **Documentação interativa:** `/docs`
 
 ## 🛠️ Tecnologias
 
@@ -60,8 +60,8 @@ curl -X POST http://localhost:8000/expenses \
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/api-controle-de-gastos.git
-cd api-controle-de-gastos
+git clone https://github.com/kaxinhoskx/api-controle-de-despesas.git
+cd api-controle-de-despesas
 
 # 2. Crie e ative o ambiente virtual
 python -m venv .venv
